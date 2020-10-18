@@ -1,5 +1,5 @@
 ---
-title: أخبار الملاسين
+title: جريدة المواطنة
 subtitle: جريدة فيها أي حاجة مالملاسين... بدارجة
 image: img/quartier_el_mellasine.jpg
 blurb:
