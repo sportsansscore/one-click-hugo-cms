@@ -1,6 +1,6 @@
 ---
-title: "تونس  Space جريدة  "
-subtitle: جريدة تونسية أصل
+title: "        "
+subtitle: "    "
 image: img/logo-journal.png
 blurb:
   heading: علاش هالجريدة ؟
