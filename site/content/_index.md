@@ -1,7 +1,7 @@
 ---
 title: جريدة المواطنة
 subtitle: جريدة فيها أي حاجة مالملاسين... بدارجة
-image: img/quartier_el_mellasine.jpg
+image: img/blog-index.jpg
 blurb:
   heading: علاش هالجريدة ؟
   text: |-
