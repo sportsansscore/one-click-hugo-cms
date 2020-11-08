@@ -1,7 +1,7 @@
 ---
-title: جريدة المواطنة
-subtitle: جريدة فيها أي حاجة مالملاسين... بدارجة
-image: img/blog-index.jpg
+title: "تونس  Space جريدة  "
+subtitle: جريدة تونسية أصل
+image: img/logo-journal.png
 blurb:
   heading: علاش هالجريدة ؟
   text: |-
