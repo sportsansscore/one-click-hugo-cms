@@ -15,7 +15,7 @@ intro:
     معنا بقلمه وفكره تحت شرط إحترام الميثاق الأخلاقي والمبدئي للجريدة والتقيد
     بمعاني الرقى الفكري والثقافي .
 
-    " Sport Sans Scores " هذا المشروع من إنجاز جمعية 
+    هذا المشروع من إنجاز جمعية" Sport Sans Scores "
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
