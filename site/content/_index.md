@@ -4,18 +4,15 @@ subtitle: "    "
 image: img/logo-journal.png
 blurb:
   heading: " "
+  text: "\ \n"
+intro:
+  heading: لماذا؟
   text: جريدة إلكترونية  مستقلة، منبر إعلامي نحاول من خلاله التعبير عما نفكر فيه
     ونعمل على إيجاد الصيغ العملية لتطبيقه بالتعاون مع من يشترك معنا في الرؤية
     الوطنية الجامعة من أجل تونس أخرى ممكنة .المقالات التي نصدرها تمثل مانفكر فيه
     ومانرجوه من كل فاعل مؤمن بالأفضل لتونس وهى منبر مفتوح لكل من يريد المساهمة
     معنا بقلمه وفكره تحت شرط إحترام الميثاق الأخلاقي والمبدئي للجريدة والتقيد
     بمعاني الرقى الفكري والثقافي .
-intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
