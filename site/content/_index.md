@@ -1,5 +1,5 @@
 ---
-title: "       جريدة إلكترونية"
+title: "  "
 subtitle: "    "
 image: img/logo-journal.png
 blurb:
