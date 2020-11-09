@@ -7,13 +7,13 @@ contact_entries:
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -53,9 +53,9 @@ contact_entries:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -624,11 +624,11 @@ contact_entries:
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
- /* Style Definitions */
+ /\* Style Definitions \*/
  table.MsoNormalTable
 	{mso-style-name:"Tableau Normal";
 	mso-tstyle-rowband-size:0;
@@ -645,15 +645,6 @@ contact_entries:
 	mso-pagination:widow-orphan;
 	font-size:11.0pt;
 	font-family:"Calibri",sans-serif;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:Arial;
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;}
-</style>
-<!\[endif]-->
 
 <!--StartFragment-->
 
