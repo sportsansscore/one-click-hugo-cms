@@ -6,7 +6,7 @@ blurb:
   heading: " "
   text: "\ \n"
 intro:
-  heading: لماذا؟
+  heading: تقديم
   text: >-
     جريدة إلكترونية  مستقلة، منبر إعلامي من  نحاول من خلاله التعبير عما نفكر فيه
     ونعمل على إيجاد الصيغ العملية لتطبيقه بالتعاون مع من يشترك معنا في الرؤية
@@ -18,9 +18,11 @@ intro:
     " Sport Sans Scores "هذا المشروع من إنجاز جمعية
 products: []
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: لماذا؟
+  text: لأننا نؤمن بواقع أفضل وإمكامات أخرى للنهوض بالوطن وبالوعى العام ثقافيا
+    وإجتماعيا ..إنطلاقا من هذا المبدأ وإيمانا بدور الكلمة والفكرة ودون الوقوف
+    على خط التنافس أو الصدام , أردنا التأسيس لهذه التجربة الإعلامية المتواضعة من
+    حيث الإمكانيات والعميقة من حيث الهدف .أردناها لسان حال الممكن من المقترحات
+    والحلول والرؤى التي تعبر على تطلعات الطيف الواسع من شعبنا وقوة إقتراح نحاول
+    من خلالها التأثير الإيجابي والمشاركة في التأسيس لتونس كما يريدها الجميع.
 ---
