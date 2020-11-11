@@ -21,7 +21,7 @@ intro:
 products:
   - text: الجريدة الإلكترونية من المشاريع المنجزة من قبل جمعية " Sport Sans Scores "
       تعنى بتغطية جميع المواضيع ومفتوحة على كل الآراء.
-    image: img/about-direct-sourcing.jpg
+    image: img/sss.svg
 values:
   heading: من نحن؟
   text: مواطنون تونسيون مؤمنون بتونس الديمقراطية المدنية الجامعة والمحتضنة لكل
